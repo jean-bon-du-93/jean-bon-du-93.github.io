@@ -1,0 +1,17 @@
+body
+{       background-repeat: no repeat;
+	background-size:cover;
+        background-image:url("op3.JPG");
+        background-attachement:fixed;
+        color:white;
+}
+.red
+{
+	color:yellow;
+}
+
+ul
+{ 
+    color:yellow ;
+    margin-left: 0%;
+}

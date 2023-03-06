@@ -1,0 +1,25 @@
+body
+{	
+	background-repeat: no repeat;
+	background-size:cover;
+    background-image:url("op3.JPG");
+    background-attachement:fixed;
+    color:white;
+}
+
+.gauche
+{
+	position: fixed;
+	left: 0%;
+	top: 10%;
+	width: 30%;
+}
+
+
+.droite
+{
+	position: fixed;
+	right: 0%;
+	top: 0%;
+	width: 35%;
+}
